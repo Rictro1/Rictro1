@@ -25,11 +25,11 @@
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=false)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rictro1&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rictro1&theme=chartreuse-dark&hide_border=false)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rictro1&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
 
 
 ---
+
 ⭐ *"Code. Build. Learn. Repeat."*
